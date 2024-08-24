@@ -1,2 +1,1 @@
-# lanmanswebsite
-My own website
+Welcome to my Web Site!
